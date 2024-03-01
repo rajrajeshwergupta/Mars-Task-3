@@ -135,14 +135,10 @@ void loop() {
 }
 
 ```
-## Simulation Video
-
-![Simulation](https://github.com/rajrajeshwergupta/Mars-Task-3/assets/70447865/566d3c99-5afe-4e76-8898-9beeb6af584d)
-
 
 ## Connections
 
-1. Connect the components according to the provided circuit diagram.
+1. Connect the components according to the provided circuit diagram and board specifications
 2. Uploaded the code to Arduino board.
 3. Open the serial monitor to view distance measurements and PWM speed.
 
@@ -156,8 +152,8 @@ void loop() {
   - If 20cm < distance < 50cm, move in anticlockwise direction with 50% speed.
   - If 50cm < distance < 100cm, move in anticlockwise direction with 100% speed.
 
-## Contributing
+## Reference
 
-## License
+[DOC](https://www.arduino.cc/](https://images-na.ssl-images-amazon.com/images/I/A1TemgvjKjL.pdf)https://images-na.ssl-images-amazon.com/images/I/A1TemgvjKjL.pdf)
+[Link](https://robocraze.com/blogs/post/arduino-interfacing-with-ultrasonic-sensor)
 
-This project is licensed under the [MIT License](LICENSE).
